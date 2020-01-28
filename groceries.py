@@ -1,9 +1,6 @@
 # groceries.py
 
 #from pprint import pprint
-import operator
-
-babies = snacks = pantry = dairy_eggs = beverages = dry_goods_pasta = frozen = household = meat_seafood = personal_care = 0
 
 products = [
     {"id":1, "name": "Chocolate Sandwich Cookies", "department": "snacks", "aisle": "cookies cakes", "price": 3.50},
